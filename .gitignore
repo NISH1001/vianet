@@ -5,6 +5,10 @@ __pycache__/
 # C extensions
 *.so
 
+# my exceptions
+*.swp
+data/
+
 # Distribution / packaging
 .Python
 env/
