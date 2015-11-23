@@ -21,7 +21,7 @@ sudo apt-get install python3-requests
 ## usage
 Just run the python script `vianet.py`.  
 The script uses your vianet's **username** and **password**. 
-So, the script loads them from a JSON located in `data/vianet.json' in current directory as: 
+So, the script loads them from a JSON located in `data/vianet.json` in current directory as: 
 
 ```json
 {
